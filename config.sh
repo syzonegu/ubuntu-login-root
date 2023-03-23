@@ -9,4 +9,4 @@ systemctl restart ssh
 # ตั้งค่ารหัสผ่านของบัญชี root
 passwd root
 
-echo "SSH has been configured to allow root login from $ip
+echo "SSH has been configured to allow root login
